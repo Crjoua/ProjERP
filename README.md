@@ -1,2 +1,3 @@
 # ProjERP
-Projeto para criação de um ERP
+
+Projeto para exemplificar como deve ser feita a criação de um ERP
